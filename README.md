@@ -35,8 +35,6 @@ The Compiled Version of the Program Can be Downloaded from the Links Below.
 <dl>
   <dt> "Html Smuggling"
   <dd>
-  <dd> HtmlSmuggling.rar --> zip password: "gung0r_HtmlSmuggling"
-  <dd> Link = https://drive.google.com/file/d/1nywAbA8fEx6lFPz5snI05KeAMz8bTUcS/view?usp=sharing
 </dl>
 
 
@@ -57,12 +55,6 @@ Compilation
 pyinstaller --onefile --icon=HtmlSmuggling.ico HtmlSmuggling.py
 ```
 
-Video and Screenshots of the Vulnerability
----
-&emsp; The use of the compiled version of the script is shown in the Youtube video.
-It can be viewed at the link below.
-
-**[Youtube Link]** [https://www.youtube.com/watch?v=_rQrLeDaFSU](https://www.youtube.com/watch?v=ft7rdZVFv_c)
 
  **[ScreenShot 1]**
 ![b1](https://user-images.githubusercontent.com/71177413/174581941-8bc693dd-2d0c-4fa2-b1cc-900cbcd3fc0c.png)
